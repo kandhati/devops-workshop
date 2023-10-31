@@ -1,7 +1,7 @@
 # Jenkins Master and Slave Setup
 
 1. Add credentials ( login to the slave system from the master system )
-2. Add node
+2. Add node ( slave node we need to add to Jenkin master )
    
 ### Add Credentials 
 1. Manage Jenkins --> Manage Credentials --> System --> Global credentials --> Add credentials
