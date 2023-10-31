@@ -1,6 +1,6 @@
 # Jenkins Master and Slave Setup
 
-1. Add credentials 
+1. Add credentials ( login to the slave system from the master system )
 2. Add node
    
 ### Add Credentials 
